@@ -14,16 +14,16 @@ I am a Bigdata/ML Engineer and Interester in designing and building machine lear
 
 💬 Main experience: 
 
-* May 2021 to Now:  ML/Bigdata Engineer in QuanZhi Technology.
+🔮 May 2021 to Now:  ML/Bigdata Engineer in QuanZhi Technology.
 
   Focus on the use of machine learning and big data technology to empower data security and risk control business.
 
-* Nov 2020 to Nov April 2021:  Auto ML Engineer in LvWan Technology.
+🔮 Nov 2020 to Nov April 2021:  Auto ML Engineer in LvWan Technology.
 
   The main job is to build a machine learning platform.
 
-* July 2017 to Nov 2020:  Bigdata/ML Engineer in NOKIA(China)-Huanuo Technology.
+🔮 July 2017 to Nov 2020:  Bigdata/ML Engineer in NOKIA(China)-Huanuo Technology.
 
   Design ML systems with realization and applications in AIOPS, Information and Communication.
 
-* Sep 2013 to June 2017:  B.S. in Software Engineering at Henan University of Technology.
+🎓 Sep 2013 to June 2017:  B.S. in Software Engineering at Henan University of Technology.
