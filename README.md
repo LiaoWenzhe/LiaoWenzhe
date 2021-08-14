@@ -1,12 +1,9 @@
 Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
-I am a Bigdata/MLEngineer
+I am a Bigdata/ML Engineer and Interester in designing and building machine learning systems, with realization and applications in AIOPS, DataSecurity, AutoML and Information and Communication.
 
-I specialize in designing and building machine learning systems, with realization and applications in outlier detection, healthcare, graph neural networks, and ensemble learning.
+🔭 Interest-wise, I mainly focus on:
 
-🔭 Reseach-wise, I mainly focus on:
-
-data mining topics related to outlier detection (anomaly detection)
-machine learning systems (MLSys) that can speed/scale up and automate data mining and machine learning algorithms
+Artificial Intelligence for IT Operations(AIOPS) that can 
 At CMU, I work with Prof. Leman Akoglu from DATA Lab on outlier detection, Prof. George H. Chen on general ML and statistics, and Prof. Zhihao Jia from Catalyst on machine learning systems. I am currently visiting Prof. Jure Leskovec at SNAP, Standford University.
 
 😄 I am open to:
@@ -16,12 +13,8 @@ paper review, tutorial, workshop, and talk opportunities
 research internships (open for Summer 2022). I could legally work in Canada, United States, and China
 📫 Contact me by:
 
-Email (zhaoy [AT] cmu.edu)
-Twitter
-知乎:「微调」
-Homepage
-WeChat (微信)
-💬 News & Travel:
+Email: wenzhe.1.liao@gmail.com
+CSDN: Liao_Wenzhe
 
 Aug 2021: Two impactful large-scale ML initiatives are accepted to NeurIPS 2021 (Datasets and Benchmarks track). See the papers on OpenReview: (1) Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development and (2) Revisiting Time Series Outlier Detection: Definitions and Benchmarks.
 
