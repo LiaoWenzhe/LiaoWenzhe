@@ -10,4 +10,4 @@ I am a Bigdata/ML Engineer and Interester in designing and building machine lear
 
 * Email: 13253595285@163.com, wenzhe.1.liao@gmail.com
 
-* CSDN: Liao_Wenzhe
+* Blog: https://blog.csdn.net/Liao_Wenzhe
