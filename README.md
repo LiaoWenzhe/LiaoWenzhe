@@ -13,3 +13,7 @@ I am a Bigdata/ML Engineer and Interester in designing and building machine lear
 * Blog: https://blog.csdn.net/Liao_Wenzhe
 
 :star2: Representative works
+* 2021: [Build quanzhi data security intelligent risk control system](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
+* 2020: Large-scale Aiops for Core Network Data Center
+* 2018-2019: Operation and maintenance data mining
+* 2017：Big data operation and maintenance
