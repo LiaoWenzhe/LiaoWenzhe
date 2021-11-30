@@ -1,6 +1,6 @@
 Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 
-I am a Bigdata/ML Engineer and Interester in designing and building machine learning systems, with realization and applications in AIOPS, DataSecurity, AutoML, Information Communication and so on.
+I am a Bigdata/ML Engineer and Interester in designing and building machine learning systems, AIOPS, DataSecurity, AutoML, Data mining.
 
 😄 I am open to:
 
