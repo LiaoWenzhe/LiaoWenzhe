@@ -8,7 +8,7 @@ I am a Bigdata/ML Engineer and now interester in designing and building machine 
 
 📫 Contact me by:
 
-* Email: 13253595285@163.com, wenzhe.1.liao@gmail.com
+* Email: wenzhe.1.liao@gmail.com
 
 * Blog: https://blog.csdn.net/Liao_Wenzhe
 
