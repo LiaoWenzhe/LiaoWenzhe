@@ -12,7 +12,7 @@ I am a Bigdata/ML Engineer and now interester in designing and building machine 
 
 * Blog: https://blog.csdn.net/Liao_Wenzhe
 
-* wechat: wenzhe-china
+* wechat: lwz-china-it
 
 :star2: [Representative works](https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects)
 * 2021:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>&emsp;&emsp;Build quanzhi data security intelligent risk control system
