@@ -27,6 +27,4 @@ I am a Bigdata/ML Engineer and now interester in designing and building machine 
 
 If you see something you like, please consider :star: starring :star: the repo. It gives me a better idea of where to focus my efforts!
 
-Happy browsing! :boom:
-
-:timer_clock: Update time: November 2021
+:boom: Update time: November 2021
