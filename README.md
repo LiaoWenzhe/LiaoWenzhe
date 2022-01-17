@@ -16,8 +16,6 @@ I am a Bigdata/ML Engineer and now interester in designing and building machine 
 
 🤔 I recently created a data security and AIops technical exchange wechat group, and like-minded friends are welcome  to contact me to join.
 
-If you see something you like, please consider :star: starring :star: the repo. It gives me a better idea of where to focus my efforts!
-
 :star2: [Representative works](https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects)
 * 2021:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>&emsp;&emsp;Build quanzhi data security intelligent risk control system
 
@@ -26,6 +24,8 @@ If you see something you like, please consider :star: starring :star: the repo. 
 * 2018/9:&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/BigData-1.jpg"/>&emsp;&emsp;Operation and maintenance data mining
 
 * 2017:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/14291549-90dfa4b60e721577.gif"/>&emsp;&emsp;Big data operation and maintenance
+
+If you see something you like, please consider :star: starring :star: the repo. It gives me a better idea of where to focus my efforts!
 
 Happy browsing! :boom:
 
