@@ -1,6 +1,16 @@
 Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 
 I am a Bigdata/ML Engineer and now interester in designing and building machine learning systems, AIOPS, DataSecurity, AutoML, Data mining and Distributed BigData/ML.
+### What's all this? 🤔
+
+Below is the list of my open source projects that ✨ **I'm the most proud of** ✨. I've worked on these either during my spare time
+or as a part of my Ph.D. dissertation. Countless hours of my time have gone into the development of each one, and nothing makes
+me happier than seeing people use them in their projects.
+
+If you see something you like, please consider :star: starring :star: the repo. It gives me a better idea of where to focus my efforts!
+
+Happy browsing! :boom:
+
 
 I recently created a data security and AIops technical exchange wechat group, and like-minded friends are welcome  to contact me to join.
 
