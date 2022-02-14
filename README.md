@@ -12,7 +12,7 @@ I am a Bigdata/ML Engineer and now interester in designing and building machine 
 
 * Blog: https://blog.csdn.net/Liao_Wenzhe
 
-* 知乎：明航
+* 知乎：https://www.zhihu.com/people/liao-wen-zhe-55/
 
 * wechat: lwz-china-it
 
