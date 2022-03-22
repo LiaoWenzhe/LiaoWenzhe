@@ -10,7 +10,7 @@ I am a Bigdata/ML Engineer and now interester in designing and building machine 
 
 * [Email@wenzhe](wenzhe.1.liao@gmail.com)
 
-* [Blog@明航](https://blog.csdn.net/Liao_Wenzhe): 
+* [Blog@明航](https://blog.csdn.net/Liao_Wenzhe):
 
 * [知乎@明航](https://www.zhihu.com/people/liao-wen-zhe-55/)
 
