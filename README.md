@@ -14,7 +14,7 @@ I am a Bigdata/ML Engineer and now interester in designing and building machine 
 
 * [知乎@明航](https://www.zhihu.com/people/liao-wen-zhe-55/)
 
-* wechat: lwz-china-it
+* [wechat:@lwz-china-it](https://www.zhihu.com/people/liao-wen-zhe-55/pins)
 
 🤔 I recently created a data security and AIops technical exchange wechat group, and like-minded friends are welcome  to contact me to join.
 
