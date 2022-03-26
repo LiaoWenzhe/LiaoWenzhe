@@ -40,6 +40,15 @@ If you see something you like, please consider :star: starring :star: the repo. 
 * [wechat:@lwz-china-it](https://www.zhihu.com/people/liao-wen-zhe-55/pins)
 * 微信公众号： 明航的工作生活记事本
 
-🤔 I recently created a data security and AIops technical exchange wechat group, and like-minded friends are welcome  to contact me to join.
+💬 News:
+
+Feb 2021: 🎉 I won the first prize of Zhejiang Mobile SRE Competition
+
+Feb 2019: 🎉 I won the 2nd place of data mining competition in Nokia China.
+
+Feb 2018: 🎉 I won the champion of data mining competition in Nokia China.
+
+Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top 10% of 200 people）
+
 
 :boom: Update time: November 2021
