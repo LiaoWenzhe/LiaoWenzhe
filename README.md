@@ -8,8 +8,6 @@ Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 - the discussion groups with nearly 100  IT researchers and practitioners from Silicon Valley, Alibaba, Tencent, ZJU, BaiDu and more (see contact section below for joining).
 
 ----
-
-
 :star2: [Representative works](https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects)
 * 2021:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>&emsp;&emsp;[Build quanzhi data security intelligent risk control system](https://zhuanlan.zhihu.com/p/463457077)
 
@@ -21,8 +19,17 @@ Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 
 If you see something you like, please consider :star: starring :star: the repo. It gives me a better idea of where to focus my efforts!
 
-----
+💬 News:
 
+Feb 2021: 🎉 I won the first prize of Zhejiang Mobile SRE Competition
+
+Feb 2019: 🎉 I won the 2nd place of data mining competition in Nokia China.
+
+Feb 2018: 🎉 I won the champion of data mining competition in Nokia China.
+
+Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top 10% of 200 people）
+
+----
 
 😄 I am open to:
 
@@ -39,16 +46,5 @@ If you see something you like, please consider :star: starring :star: the repo. 
 
 * [wechat:@lwz-china-it](https://www.zhihu.com/people/liao-wen-zhe-55/pins)
 * 微信公众号： 明航的工作生活记事本
-
-💬 News:
-
-Feb 2021: 🎉 I won the first prize of Zhejiang Mobile SRE Competition
-
-Feb 2019: 🎉 I won the 2nd place of data mining competition in Nokia China.
-
-Feb 2018: 🎉 I won the champion of data mining competition in Nokia China.
-
-Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top 10% of 200 people）
-
 
 :boom: Update time: November 2021
