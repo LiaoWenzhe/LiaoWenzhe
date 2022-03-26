@@ -23,7 +23,7 @@ If you see something you like, please consider :star: starring :star: the repo. 
 
 💬 Prizes:
 
-Feb 2021: 🎉 I won the first prize of Zhejiang Mobile SRE Competition and  the 3nd place of data mining competition in Nokia China.
+Feb 2021: 🎉 [I won the first prize of Zhejiang Mobile SRE Competition and  the 3nd place of data mining competition in Nokia China](https://mp.weixin.qq.com/s/rNfTsBwkObugx2lmubY6Zw)
 
 Feb 2019: 🎉 I won the 2nd place of data mining competition in Nokia China.
 
