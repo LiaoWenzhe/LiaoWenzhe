@@ -4,7 +4,7 @@ Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 
 👬 **Community**: I am organizing **open-source learning community of data intelligence**, including:
 - data intelligence learning resources on Github (nearly 100 stars)
-- related [technology blogs](https://blog.csdn.net/Liao_Wenzhe), [wechat public accounts](https://www.zhihu.com/people/liao-wen-zhe-55/pins) and [technical columns](https://www.zhihu.com/people/liao-wen-zhe-55/) (nearly 100K visits)
+- related [technology blogs](https://blog.csdn.net/Liao_Wenzhe), [wechat public accounts](https://www.zhihu.com/people/liao-wen-zhe-55/pins) and [technical columns](https://www.zhihu.com/people/liao-wen-zhe-55/columns) (nearly 100K visits)
 - the discussion groups with nearly 100  IT researchers and practitioners from alibaba, tencent, zju and more (see contact section below for joining).
 
 ----
