@@ -10,8 +10,6 @@ Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 ----
 
 
-🤔 I recently created a data security and AIops technical exchange wechat group, and like-minded friends are welcome  to contact me to join.
-
 :star2: [Representative works](https://github.com/LiaoWenzhe/BigdataAi/tree/main/projects)
 * 2021:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>&emsp;&emsp;[Build quanzhi data security intelligent risk control system](https://zhuanlan.zhihu.com/p/463457077)
 
@@ -30,6 +28,7 @@ If you see something you like, please consider :star: starring :star: the repo. 
 
 * collaboration opportunities (anytime & anywhere & any type)
 
+
 📫 Contact me by:
 
 * Email:wenzhe.1.liao@gmail.com
@@ -40,5 +39,7 @@ If you see something you like, please consider :star: starring :star: the repo. 
 
 * [wechat:@lwz-china-it](https://www.zhihu.com/people/liao-wen-zhe-55/pins)
 * 微信公众号： 明航的工作生活记事本
+
+🤔 I recently created a data security and AIops technical exchange wechat group, and like-minded friends are welcome  to contact me to join.
 
 :boom: Update time: November 2021
