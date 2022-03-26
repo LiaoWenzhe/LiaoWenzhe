@@ -21,7 +21,7 @@ If you see something you like, please consider :star: starring :star: the repo. 
 
 ----
 
-💬 News:
+💬 Prizes:
 
 Feb 2021: 🎉 I won the first prize of Zhejiang Mobile SRE Competition and  the 3nd place of data mining competition in Nokia China.
 
