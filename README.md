@@ -19,6 +19,8 @@ Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 
 If you see something you like, please consider :star: starring :star: the repo. It gives me a better idea of where to focus my efforts!
 
+----
+
 💬 News:
 
 Feb 2021: 🎉 I won the first prize of Zhejiang Mobile SRE Competition
