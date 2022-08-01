@@ -9,7 +9,7 @@ Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 
 ----
 :star2: [Representative works](https://github.com/LiaoWenzhe/BigdataAi):
-* 2021:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>&emsp;&emsp;[Build quanzhi data security intelligent risk control system](https://mp.weixin.qq.com/s/Ce8iXvAuNf2n3OFZSmFi1Q)
+* 2021:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>&emsp;&emsp;[Build quanzhi data security intelligent risk control system](https://zhuanlan.zhihu.com/p/548450688)
 
 * 2020:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/38a009b5c01af6f88e1210a6b4a469d.png"/>&emsp;&emsp;[Large-scale Aiops System for Core Network Data Center](https://zhuanlan.zhihu.com/p/466955597)
 
