@@ -1,7 +1,4 @@
 Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
-----
-
-[![Wenzhe's github stats](https://github-readme-stats.vercel.app/api?username=LiaoWenzhe&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) 
 
 😃 **Short Bio**: I am a Bigdata/ML Engineer and now interester in designing and building machine learning systems, AIOPS, DataSecurity, AutoML, Data mining and Distributed BigData/ML.
 
@@ -37,6 +34,8 @@ Feb 2018: 🎉 I won the champion of data mining competition in Nokia China.
 
 Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top 10% of 200 people）
 
+----
+[![Wenzhe's github stats](https://github-readme-stats.vercel.app/api?username=LiaoWenzhe&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) 
 ----
 
 😄 I am open to:
