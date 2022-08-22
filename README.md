@@ -8,7 +8,9 @@ Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 - the discussion groups with nearly 100  IT researchers and practitioners from Silicon Valley, Alibaba, Tencent, ZJU, BaiDu and more (see contact section below for joining).
 
 &emsp;&emsp;&emsp;&emsp;[![Wenzhe's github stats](https://github-readme-stats.vercel.app/api?username=LiaoWenzhe)](https://github.com/anuraghazra/github-readme-stats)
-----
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LiaoWenzhe&repo=github-readme-stats" />
+</a>
 ----
 :star2: [Representative works](https://github.com/LiaoWenzhe/BigdataAi):
 * 2021:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>&emsp;&emsp;[Build quanzhi data security intelligent risk control system](https://zhuanlan.zhihu.com/p/548450688)
