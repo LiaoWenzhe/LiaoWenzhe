@@ -35,7 +35,7 @@ Feb 2018: 🎉 I won the champion of data mining competition in Nokia China.
 Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top 10% of 200 people）
 
 ----
-[![Wenzhe's github stats](https://github-readme-stats.vercel.app/api?username=LiaoWenzhe&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Wenzhe's github stats](https://github-readme-stats.vercel.app/api?username=LiaoWenzhe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ----
 
 😄 I am open to:
