@@ -7,6 +7,8 @@ Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 - related [technology blogs](https://blog.csdn.net/Liao_Wenzhe), [wechat public accounts](https://www.zhihu.com/people/liao-wen-zhe-55/pins) and [technical columns](https://www.zhihu.com/people/liao-wen-zhe-55/columns) (nearly 100K visits)
 - the discussion groups with nearly 100  IT researchers and practitioners from Silicon Valley, Alibaba, Tencent, ZJU, BaiDu and more (see contact section below for joining).
 
+[![Wenzhe's github stats](https://github-readme-stats.vercel.app/api?username=LiaoWenzhe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+----
 ----
 :star2: [Representative works](https://github.com/LiaoWenzhe/BigdataAi):
 * 2021:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>&emsp;&emsp;[Build quanzhi data security intelligent risk control system](https://zhuanlan.zhihu.com/p/548450688)
@@ -35,8 +37,7 @@ Feb 2018: 🎉 I won the champion of data mining competition in Nokia China.
 Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top 10% of 200 people）
 
 ----
-[![Wenzhe's github stats](https://github-readme-stats.vercel.app/api?username=LiaoWenzhe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-----
+
 
 😄 I am open to:
 
