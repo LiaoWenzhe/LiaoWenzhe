@@ -9,7 +9,6 @@ Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 
 
 ----
-&emsp;&emsp;&emsp;&emsp;[![Wenzhe's github stats](https://github-readme-stats.vercel.app/api?username=LiaoWenzhe)](https://github.com/anuraghazra/github-readme-stats)
 
 :star2: [Representative works](https://github.com/LiaoWenzhe/BigdataAi):
 * 2021:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>&emsp;&emsp;[Build quanzhi data security intelligent risk control system](https://zhuanlan.zhihu.com/p/548450688)
@@ -21,6 +20,10 @@ Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 👋
 * 2017:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/14291549-90dfa4b60e721577.gif"/>&emsp;&emsp;Big data operation and maintenance
 
 If you see something you like, please consider :star: starring :star: the repo. It gives me a better idea of where to focus my efforts!
+
+----
+
+&emsp;&emsp;&emsp;&emsp;[![Wenzhe's github stats](https://github-readme-stats.vercel.app/api?username=LiaoWenzhe)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
