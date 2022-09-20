@@ -25,8 +25,6 @@ If you see something you like, please consider :star: starring :star: the repo. 
 
 &emsp;&emsp;&emsp;&emsp;[![Wenzhe's github stats](https://github-readme-stats.vercel.app/api?username=LiaoWenzhe)](https://github.com/anuraghazra/github-readme-stats)
 
-----
-
 💬 Prizes:
 
 
