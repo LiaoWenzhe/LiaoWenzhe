@@ -51,13 +51,13 @@ Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top
 <p align="left">
 <br/>
 <a href="https://blog.csdn.net/Liao_Wenzhe">
-  <img alt="wenzhe | CSDN" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/tree/main/images/csdn_logo.jpeg"/>
+  <img alt="wenzhe | CSDN" width="50px" src="https://github.com/LiaoWenzhe/tree/main/images/csdn_logo.jpeg"/>
 </a>
 <a href="https://www.zhihu.com/people/liao-wen-zhe-55/">
-  <img alt="wenzhe's zhihu" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/tree/main/images/zhih_logo.jpeg" />
+  <img alt="wenzhe's zhihu" width="50px" src="https://github.com/LiaoWenzhe/tree/main/images/zhih_logo.jpeg" />
 </a>
   <a href="[https://www.zhihu.com/people/liao-wen-zhe-55/](https://www.zhihu.com/people/liao-wen-zhe-55/pins)">
-  <img alt="wenzhe's wechat" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/tree/main/images/wechat_logo.jpeg" />
+  <img alt="wenzhe's wechat" width="50px" src="https://github.com/LiaoWenzhe/tree/main/images/wechat_logo.jpeg" />
 </a>
 <br>
 </p>
