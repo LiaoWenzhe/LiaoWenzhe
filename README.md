@@ -57,7 +57,7 @@ Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top
   <img alt="wenzhe's zhihu" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/zhih_logo.jpeg" />
 </a>
   <a href="https://www.zhihu.com/people/liao-wen-zhe-55/pins">
-  <img alt="wenzhe's wechat" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/wechat_logo.jpeg" />
+  <img alt="wenzhe's wechat" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/wechat_logo.png" />
 </a>
 <br>
 </p>
