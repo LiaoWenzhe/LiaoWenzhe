@@ -1,7 +1,12 @@
 👋 Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 
 
 😃 **Short Bio**: I am a Bigdata/ML Engineer and now interester in designing and building machine learning systems, AIOPS, DataSecurity, AutoML, Data mining and Distributed BigData/ML.
-<a href="https://www.zhihu.com/people/liao-wen-zhe-55/">
+
+👬 **Community**: I am organizing **open-source learning community of data intelligence**, including:
+- data intelligence learning resources on Github (hundreds stars)
+- related [technology blogs](https://blog.csdn.net/Liao_Wenzhe), [wechat public accounts](https://www.zhihu.com/people/liao-wen-zhe-55/pins) and [technical columns](https://www.zhihu.com/people/liao-wen-zhe-55/columns) (a few millions visits)
+- the discussion groups with nearly 100  IT researchers and practitioners from Silicon Valley, Alibaba, Tencent, ZJU, BaiDu and more (see contact section below for joining).
+- <a href="https://www.zhihu.com/people/liao-wen-zhe-55/">
   <img alt="wenzhe's zhihu" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/zhih_logo.jpeg" />
 </a>
   <a href="https://www.zhihu.com/people/liao-wen-zhe-55/pins">
@@ -10,11 +15,6 @@
   <a href="https://blog.csdn.net/Liao_Wenzhe">
   <img alt="wenzhe | CSDN" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/csdn_logo.jpeg"/>
 </a>
-
-👬 **Community**: I am organizing **open-source learning community of data intelligence**, including:
-- data intelligence learning resources on Github (hundreds stars)
-- related [technology blogs](https://blog.csdn.net/Liao_Wenzhe), [wechat public accounts](https://www.zhihu.com/people/liao-wen-zhe-55/pins) and [technical columns](https://www.zhihu.com/people/liao-wen-zhe-55/columns) (a few millions visits)
-- the discussion groups with nearly 100  IT researchers and practitioners from Silicon Valley, Alibaba, Tencent, ZJU, BaiDu and more (see contact section below for joining).
 
 
 ----
