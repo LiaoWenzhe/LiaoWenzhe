@@ -48,21 +48,17 @@ Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top
 
 📫 Contact me by:
 
-<p align="left">
-<br/>
-<a href="https://blog.csdn.net/Liao_Wenzhe">
-  <img alt="wenzhe | CSDN" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/csdn_logo.jpeg"/>
-</a>
+
 <a href="https://www.zhihu.com/people/liao-wen-zhe-55/">
   <img alt="wenzhe's zhihu" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/zhih_logo.jpeg" />
 </a>
   <a href="https://www.zhihu.com/people/liao-wen-zhe-55/pins">
   <img alt="wenzhe's wechat" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/wechat_logo.png" />
 </a>
-<br>
-</p>
+  <a href="https://blog.csdn.net/Liao_Wenzhe">
+  <img alt="wenzhe | CSDN" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/csdn_logo.jpeg"/>
+</a>
 
-</p>
 
 :boom: Update time: November 2021
 
