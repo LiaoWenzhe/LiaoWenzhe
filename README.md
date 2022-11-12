@@ -5,7 +5,7 @@
 👬 **Community**: I am organizing **open-source learning community of data intelligence**, including:
 - data intelligence learning resources on Github (hundreds stars)
 - related [technology blogs](https://blog.csdn.net/Liao_Wenzhe), [wechat public accounts](https://www.zhihu.com/people/liao-wen-zhe-55/pins) and [technical columns](https://www.zhihu.com/people/liao-wen-zhe-55/columns) (a few millions visits)
-- the discussion groups with nearly 100  IT researchers and practitioners from Silicon Valley, Alibaba, Tencent, ZJU, BaiDu and more (see contact section below for joining).<br>
+- the discussion groups with nearly 100  IT researchers and practitioners from Silicon Valley, Alibaba, Tencent, ZJU, BaiDu and more (see contact section below for joining). <br />
 - &emsp; <a href="https://www.zhihu.com/people/liao-wen-zhe-55/"> <img alt="wenzhe's zhihu" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/zhih_logo.jpeg" /></a> &emsp; <a href="https://www.zhihu.com/people/liao-wen-zhe-55/pins"><img alt="wenzhe's wechat" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/wechat_logo.png" /></a> &emsp; <a href="https://blog.csdn.net/Liao_Wenzhe"><img alt="wenzhe | CSDN" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/csdn_logo.jpeg"/></a>
 
 ----
