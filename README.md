@@ -1,6 +1,15 @@
 👋 Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 
 
 😃 **Short Bio**: I am a Bigdata/ML Engineer and now interester in designing and building machine learning systems, AIOPS, DataSecurity, AutoML, Data mining and Distributed BigData/ML.
+<a href="https://www.zhihu.com/people/liao-wen-zhe-55/">
+  <img alt="wenzhe's zhihu" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/zhih_logo.jpeg" />
+</a>
+  <a href="https://www.zhihu.com/people/liao-wen-zhe-55/pins">
+  <img alt="wenzhe's wechat" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/wechat_logo.png" />
+</a>
+  <a href="https://blog.csdn.net/Liao_Wenzhe">
+  <img alt="wenzhe | CSDN" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/csdn_logo.jpeg"/>
+</a>
 
 👬 **Community**: I am organizing **open-source learning community of data intelligence**, including:
 - data intelligence learning resources on Github (hundreds stars)
@@ -40,25 +49,9 @@ Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top
 
 ----
 
-
 😄 I am open to:
 
 * collaboration opportunities (anytime & anywhere & any type)
-
-
-📫 Contact me by:
-
-
-<a href="https://www.zhihu.com/people/liao-wen-zhe-55/">
-  <img alt="wenzhe's zhihu" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/zhih_logo.jpeg" />
-</a>
-  <a href="https://www.zhihu.com/people/liao-wen-zhe-55/pins">
-  <img alt="wenzhe's wechat" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/wechat_logo.png" />
-</a>
-  <a href="https://blog.csdn.net/Liao_Wenzhe">
-  <img alt="wenzhe | CSDN" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/csdn_logo.jpeg"/>
-</a>
-
 
 :boom: Update time: November 2021
 
