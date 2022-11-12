@@ -50,7 +50,7 @@ Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top
 
 * Email:wenzhe.1.liao@gmail.com
 
-<p align="center">
+<p align="left">
 <br/>
 <a href="[https://blog.csdn.net/weixin_42386609](https://blog.csdn.net/Liao_Wenzhe)/">
   <img alt="rongzhiy | CSDN" width="50px" src="https://github.com/rongzhiy/rongzhiy/blob/main/static/csdn.jpeg"/>
