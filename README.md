@@ -12,20 +12,6 @@
 | ------------- | ------------- |
 ----
 
-:star2: [Representative works](https://github.com/LiaoWenzhe/BigdataAi):
-* 2021:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/dataSecurity.jfif"/>&emsp;&emsp;[Build quanzhi data security intelligent risk control system](https://zhuanlan.zhihu.com/p/548450688)
-
-* 2020:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/38a009b5c01af6f88e1210a6b4a469d.png"/>&emsp;&emsp;[Large-scale Aiops System for Core Network Data Center](https://zhuanlan.zhihu.com/p/466955597)
-
-* 2018/9:&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/BigData-1.jpg"/>&emsp;&emsp;Operation and maintenance data mining
-
-* 2017:&emsp;&emsp;&emsp;<img width="120" height="70" align=center src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/14291549-90dfa4b60e721577.gif"/>&emsp;&emsp;Big data operation and maintenance
-
-If you see something you like, please consider :star: starring :star: the repo. It gives me a better idea of where to focus my efforts!
-
-
-----
-
 😄 I am open to:
 
 * collaboration opportunities (anytime & anywhere & any type)
