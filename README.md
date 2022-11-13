@@ -23,19 +23,6 @@
 
 If you see something you like, please consider :star: starring :star: the repo. It gives me a better idea of where to focus my efforts!
 
-----
-💬 Prizes:
-
-
-Aug 2022: 🎉 [I was invited to give a keynote address at ISC2022](https://zhuanlan.zhihu.com/p/548450688)
-
-Feb 2021: 🎉 [I won the first prize of Zhejiang Mobile SRE Competition and  the 3nd place of data mining competition in Nokia China](https://mp.weixin.qq.com/s/rNfTsBwkObugx2lmubY6Zw)
-
-Feb 2019: 🎉 I won the 2nd place of data mining competition in Nokia China.
-
-Feb 2018: 🎉 I won the champion of data mining competition in Nokia China.
-
-Dec 2017: 🎉 I got the Pioneer Program for Nokia China School Admissions（Top 10% of 200 people）
 
 ----
 
