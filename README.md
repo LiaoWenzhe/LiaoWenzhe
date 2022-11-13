@@ -1,6 +1,6 @@
 👋 Hi there, I'm Wenzhe Liao (廖文哲 in Chinese)! 
 
-😃 **Short Bio**: I am a Bigdata/ML Engineer and now interester in designing and building ML systems, AIOPS, DataSecurity, AutoML, Data mining and Distributed BigData/ML.
+😃 **Short Bio**: I am a Bigdata/ML Engineer and now interester in designing and building ML Systems, AIOPS, DataSecurity, AutoML, Data mining and Distributed BigData/ML.
 
 👬 **Community**: I am organizing **open-source learning community of data intelligence**, including:
 - data intelligence learning resources on Github (hundreds stars)
