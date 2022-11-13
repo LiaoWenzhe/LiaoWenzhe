@@ -7,7 +7,7 @@
 
 &emsp; <a href="https://www.zhihu.com/people/liao-wen-zhe-55/columns"> <img alt="wenzhe's zhihu" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/zhih_logo.jpeg" /></a> &emsp; <a href="https://www.zhihu.com/people/liao-wen-zhe-55/pins"><img alt="wenzhe's wechat" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/wechat_logo.png" /></a> &emsp; <a href="https://blog.csdn.net/Liao_Wenzhe"><img alt="wenzhe | CSDN" width="50px" src="https://github.com/LiaoWenzhe/LiaoWenzhe/blob/main/images/csdn_logo.jpeg"/></a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LiaoWenzhehide_border=true" alt="wenzhe's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiaoWenzhe&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LiaoWenzhe&hide_border=true" alt="wenzhe's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiaoWenzhe&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 ----
 
