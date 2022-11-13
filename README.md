@@ -16,7 +16,7 @@
 
 * collaboration opportunities (anytime & anywhere & any type)
 
-If you see something you like, please consider :star: starring :star: the repo. It gives me a better idea of where to focus my efforts!
-
 :boom: Update time: November 2022
+
+If you see something you like, please consider :star: starring :star: the repo. It gives me a better idea of where to focus my efforts!
 
