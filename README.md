@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://github.com/LiaoWenzhe/BigdataAi"><img width="60%" alt="Hello, I'm Anurag. " src="./images/name.png" /></a></p>
+<p align="center"><a href="https://github.com/LiaoWenzhe/BigdataAi"><img width="60%" alt="Hello, I'm Wenzhe. " src="./images/name.png" /></a></p>
 
 😃 **Short Bio**: I am a Bigdata/ML Engineer and now interester in designing and building ML Systems, AIOPS, DataSecurity, AutoML, Data mining and Distributed BigData/ML.
 
